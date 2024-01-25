@@ -1,0 +1,9 @@
+name: truss-calculator
+channels:
+ - default         
+dependencies:
+  - python
+  - numpy
+  - pip
+  - pip:
+    - pygame
